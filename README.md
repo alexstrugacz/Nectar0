@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Currently working on multiple React apps and a SwiftUI app!<br>👯 Looking to collaborate on an ed-tech app <br>🤝 Also looking for help with getting to know you!<br>🌱 Currently learning SwiftUI iOS app development<br><br>💬 Let's Talk! -> DM anytime @Nectarua #0001 on discord<br>⚡ Fun fact -> I began my coding journey with CS50
+🔭 Currently working on multiple React apps and a SwiftUI app!<br>👯 Looking to collaborate on an ed-tech app <br>🤝 Also looking for help with getting to know you!<br>🌱 Currently learning how to successfully run a non-profit organization with interns<br><br>💬 Let's Talk! -> DM anytime @Nectarua #0001 on discord<br>⚡ Fun fact -> I began my coding journey with CS50
 
 # 💻 Tech Stack:
 
